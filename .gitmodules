@@ -1,0 +1,6 @@
+[submodule "packages/database"]
+	path = packages/database
+	url = https://github.com/indrajeettechm/database
+[submodule "packages/network"]
+	path = packages/network
+	url = https://github.com/indrajeettechm/network
