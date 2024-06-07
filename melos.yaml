@@ -1,0 +1,12 @@
+name: modular_architecture
+
+packages:
+  - "packages/database"
+  - "packages/network"
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
+    hooks:
+      post: flutter pub get
+

@@ -1,0 +1,5 @@
+packages:
+  database:
+    path: packages/database
+  network:
+    path: packages/network
